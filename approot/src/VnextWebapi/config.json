@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "VnextWebapi"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-VnextWebapi-c03cd3a2-c166-4d97-9a1f-e74017078697;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
